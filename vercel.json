@@ -1,4 +1,4 @@
 {
     "builds": [{"src":"index.py","use":"@vercel/python"}],
-    "redirects": [{"source": "/", "destination": "/discord"}]
+    "redirects": [{"source": "/", "destination": "/discord.html"}]
 }
